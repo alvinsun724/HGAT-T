@@ -1,0 +1,25 @@
+Loading mr dataset...
+Loading text content...
+../data/mr/
+mr
+text
+label matrix shape: torch.Size([10662, 2])
+done.
+Loading topic content...
+../data/mr/
+mr
+topic
+done.
+Loading entity content...
+../data/mr/
+mr
+entity
+done.
+Building graph...
+Num of edges: 1277713
+train, vali, test:  40 1000 9622
+Transfer to be transductive.
+
+
+No. 1 test.
+
